@@ -48,4 +48,4 @@ This repository includes MATLAB implementations for trajectory planning, forward
 * Enhancing precision through advanced visual servoing techniques.
 * Implementing robust control strategies for handling uncertainties in dynamic environments.
 
-This project serves as an effective framework for robotic trajectory planning, execution, and validation in precision-oriented tasks, inviting further exploration and collaboration in advanced robotic applications.
+
